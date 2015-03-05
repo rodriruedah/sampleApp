@@ -1,2 +1,2 @@
 # sampleApp
-Esta es un repositorio para la primera aplicación de ejemplo usando GitHub
+Este es un repositorio para la primera aplicación de ejemplo usando GitHub
